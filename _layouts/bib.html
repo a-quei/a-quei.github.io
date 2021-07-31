@@ -22,10 +22,11 @@
           {% capture full_name %}{{author.first}} {{author.last}}{% endcapture %}
         {% endif %}
         {% unless forloop.last %}
-          {% if full_name == site.scholar.full_name %}
+          {% assign full_name_no_star = full_name | split: '*' %}
+          {% if (full_name == site.scholar.full_name or full_name_no_star[0] == site.scholar.full_name) %}
             <em>{{full_name}}</em>,
           {% else %}
-            {% if site.data.coauthors[full_name] %}
+            {% if (site.data.coauthors[full_name] or site.data.coauthors[full_name_no_star[0]]) %}
               <a href="{{site.data.coauthors[full_name].url}}" target="_blank">{{full_name}}</a>,
             {% else %}
               {{full_name}},
@@ -52,6 +53,11 @@
     {% elsif entry.type == "inproceedings" %}
       <em>In {{entry.booktitle}}</em>
     {% endif %}
+    </span>
+    <span>
+      {% if entry.comment %}
+      <a style="color:red;">{{entry.comment}}</a>
+      {% endif %}
     </span>
   {% endif %}
 
