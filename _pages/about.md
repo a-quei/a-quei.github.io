@@ -16,17 +16,20 @@ news: false
 social: true
 ---
 
-I am a PhD Candidate in [Department of Information and Computing Sciences](https://www.uu.nl/en/organisation/department-of-information-and-computing-sciences) at [Utrecht University](https://www.uu.nl/) and am supervised by Prof. [Kees van Deemter](http://homepages.abdn.ac.uk/k.vdeemter/pages/) and Dr. [Chenghua Lin](https://chenghualin.wordpress.com/). I am also affiliated with Natural Language Processing Group in Utrecht University. I am supported by the China Scholarship Council.
+I am a last year PhD Candidate in [Department of Information and Computing Sciences](https://www.uu.nl/en/organisation/department-of-information-and-computing-sciences) at [Utrecht University](https://www.uu.nl/) and am supervised by Prof. [Kees van Deemter](http://homepages.abdn.ac.uk/k.vdeemter/pages/) and Dr. [Chenghua Lin](https://chenghualin.wordpress.com/). 
 
-During the first half of 2021, I was a Research Intern in AI Lab at Samsung Research Centre Beijing. In the summer of 2019, I was a research intern in the Knowledge Computing group at the Microsoft Research Asia (MSRA). Before came to Utrecht, I was a PhD student in [Computing Science department](https://www.abdn.ac.uk/ncs/departments/computing-science/index.php) at [University of Aberdeen](https://www.abdn.ac.uk/) for nearly a year. Before that, I was a intern in the Natural Language Understanding group of Language Computing Lab at Samsung Research Center Beijing. I obtained my master degree (MSc) in Artificial Intelligence at University of Edinburgh. I did my under-graduate in e-Commerce Engineering with Law at Beijing University of Posts and Telecommunications (B.B.A) and Queen Mary University of London (B.Eng).
+I received a Master degree in Artificial Intelligence from the University of Edinburgh (MSc); and a Bachelor degree in e-Commerce Engineering with Law from Beijing University of Posts and Telecommunications (B.B.A) and Queen Mary University of London (B.Eng). I have interned at Samsung AI Lab (2021), Microsoft Research Asia (2019), and Samsung Research Center Beijing (2016-2017).
+
+
+
 
 
 #### Research
 
-My primary research interest lie within [Natural Language Generation](https://en.wikipedia.org/wiki/Natural_language_generation), particularly the theoretical aspects of the language generation, e.g., [Referring Expression Generation](http://aura.abdn.ac.uk/handle/2164/8956), Quantified Expression Generation and so on. I also broadly interested in other language generation related issues, including Dialogue Systems, Surface Realisation, and Style Transfer.
+My primary research interest lie within [Natural Language Generation](https://en.wikipedia.org/wiki/Natural_language_generation), particularly the theoretical aspects, e.g., [Referring Expression Generation](https://aclanthology.org/2020.inlg-1.33/), [Quantified Expression Generation](https://aclanthology.org/W19-8667/) and so on. I am also broadly interested in other language generation related tasks, including [Dialogue Systems](https://aclanthology.org/2020.inlg-1.26/), [Surface Realisation](https://aclanthology.org/W18-6506/), [Data-to-Text Generation](https://aclanthology.org/W19-8622/) and [Style Transfer](https://aclanthology.org/2020.emnlp-main.578/).
 
 #### Academic Services
 
-- **Program Committee**: ACL (2019-2021), EMNLP (2019-2021), AAAI (2020-2022), COLING (2020), AACL (2020), CCL (2020), NeurIPS (2020, 2021), INLG (2020, 2021), EACL (2021), NAACL (2021), ICML (2021), NLPCC (2021), ICLR (2022)
+- **Program Committee**: ACL, EMNLP, AAAI, COLING, AACL, CCL, NeurIPS, INLG, EACL, NAACL, ICML, NLPCC, ICLR, DialDoc
 - **Area Chair**: INLG (2019)
 - **Reviewer**: Neurocomputing, Computer Speech and Language, Natural Language Engineering, ACL Rolling Review
