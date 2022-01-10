@@ -16,7 +16,7 @@ news: false
 social: true
 ---
 
-I am a last year PhD Candidate in [Department of Information and Computing Sciences](https://www.uu.nl/en/organisation/department-of-information-and-computing-sciences) at [Utrecht University](https://www.uu.nl/) and am supervised by Prof. [Kees van Deemter](http://homepages.abdn.ac.uk/k.vdeemter/pages/) and Dr. [Chenghua Lin](https://chenghualin.wordpress.com/). 
+I am a Lecturer/Researcher at [Utrecht University](https://www.uu.nl/). I am also a last year PhD Candidate at [Utrecht University](https://www.uu.nl/) supervised by Prof. [Kees van Deemter](http://homepages.abdn.ac.uk/k.vdeemter/pages/) and Dr. [Chenghua Lin](https://chenghualin.wordpress.com/). 
 
 I received a Master degree in Artificial Intelligence from the University of Edinburgh (MSc); and a Bachelor degree in e-Commerce Engineering with Law from Beijing University of Posts and Telecommunications (B.B.A) and Queen Mary University of London (B.Eng). I have interned at Samsung AI Lab (2021), Microsoft Research Asia (2019), and Samsung Research Center Beijing (2016-2017).
 
@@ -32,4 +32,4 @@ My primary research interest lie within [Natural Language Generation](https://en
 
 - **Program Committee**: ACL, EMNLP, AAAI, COLING, AACL, CCL, NeurIPS, INLG, EACL, NAACL, ICML, NLPCC, ICLR, DialDoc
 - **Area Chair**: INLG (2019)
-- **Reviewer**: Neurocomputing, Computer Speech and Language, Natural Language Engineering, ACL Rolling Review
+- **Reviewer**: ACL Rolling Review, Neurocomputing, Computer Speech and Language, Natural Language Engineering, IEEE/ACM Transactions on Audio, Speech, and Language Processing
