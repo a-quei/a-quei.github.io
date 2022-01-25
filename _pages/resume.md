@@ -26,20 +26,11 @@ permalink: /resume/
 	* *Dialogue Systems* (2020) Natural Language Processing course at Utercht University
 	* *Neural Methods for Natural Language Generation* (2021) Natural Language Generation course at Utrecht University
 	* *Neural Referring Expression Generation* (2021) Natural Language Generation course at Utrecht University
-* Thesis Supervision at Utrecht University
-	* 1st Supervisor of 2 BSc Thesis
-	* Help supervising 5 Msc Thesis
-* Teaching Assistant at Utrecht University
-	* INFOMNLP Natural Language Processing
-* Demonstrator at University of Aberdeen
-	* CS3518 Language and Computability
-	* CS4025 Natural Language Processing
-	* CS2013 Mathematics for Computer Science
-* Gave Revision Lecture at Beijing University of Posts and Telecommunications
-	* Telecom Systems
-	* Java Programming
-	* Advanced Network Programming
-	* Information System Management
+* TA/Demonstrator
+	* INFOMNLP Natural Language Processing (Utrecht)
+	* CS3518 Language and Computability (Aberdeen)
+	* CS4025 Natural Language Processing (Aberdeen)
+	* CS2013 Mathematics for Computer Science (Aberdeen)
   
 #### Awards
 * Outstanding Graduates of Beijing
