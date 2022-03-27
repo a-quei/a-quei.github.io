@@ -12,7 +12,7 @@ profile:
     <p>Princetonplein 5</p>
     <p>Utrecht, Netherlands</p>
 
-news: false
+news: true
 social: true
 ---
 

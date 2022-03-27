@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-03-07
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+My PhD Defence has been scheduled at [here](https://www.uu.nl/en/events/phd-defence-computational-generation-of-chinese-noun-phrases).
