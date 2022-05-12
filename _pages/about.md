@@ -16,13 +16,9 @@ news: true
 social: true
 ---
 
-I am a Lecturer/Researcher at [Utrecht University](https://www.uu.nl/). I am also a last year PhD Candidate at [Utrecht University](https://www.uu.nl/) supervised by Prof. [Kees van Deemter](http://homepages.abdn.ac.uk/k.vdeemter/pages/) and Dr. [Chenghua Lin](https://chenghualin.wordpress.com/). 
+I am a Lecturer/Researcher at [Utrecht University](https://www.uu.nl/) in the Natural Language Processing Group. 
 
-I received a Master degree in Artificial Intelligence from the University of Edinburgh (MSc); and a Bachelor degree in e-Commerce Engineering with Law from Beijing University of Posts and Telecommunications (B.B.A) and Queen Mary University of London (B.Eng). I have interned at Samsung AI Lab (2021), Microsoft Research Asia (2019), and Samsung Research Center Beijing (2016-2017).
-
-
-
-
+I obtained my PhD at [Utrecht University](https://www.uu.nl/) supervised by Prof. [Kees van Deemter](http://homepages.abdn.ac.uk/k.vdeemter/pages/) and Dr. [Chenghua Lin](https://chenghualin.wordpress.com/). I received a Master degree in Artificial Intelligence from the University of Edinburgh (MSc); and a Bachelor degree in e-Commerce Engineering with Law from Beijing University of Posts and Telecommunications (B.B.A) and Queen Mary University of London (B.Eng). I have interned at Samsung AI Lab (2021), Microsoft Research Asia (2019), and Samsung Research Center Beijing (2016-2017).
 
 #### Research
 
