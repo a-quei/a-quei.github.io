@@ -27,5 +27,5 @@ My primary research interest lies within [Natural Language Generation](https://e
 #### Academic Services
 
 - **Program Committee**: ACL, EMNLP, AAAI, COLING, AACL, CCL, NeurIPS, INLG, EACL, NAACL, ICML, NLPCC, ICLR, DialDoc
-- **Area Chair**: INLG (2019)
+- **Area Chair**: INLG (2019), EACL (2022)
 - **Reviewer**: ACL Rolling Review, Neurocomputing, Computer Speech and Language, Natural Language Engineering, IEEE/ACM Transactions on Audio, Speech, and Language Processing
