@@ -4,4 +4,4 @@ date: 2022-11-25
 inline: true
 ---
 
-One paper accepted at Computer Speech and Language
+One paper accepted to Computer Speech and Language
