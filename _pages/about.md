@@ -2,23 +2,23 @@
 layout: about
 permalink: /
 title: <strong>Guanyi</strong> Chen
-description: <a href="https://www.uu.nl/en/research/intelligent-software-systems/natural-language-processing">Natural Language Processing Group</a><br/> Department of Information and Computing Sciences<br> Utrecht University
+description: School of Computer Science<br> Central China Normal University
 
 profile:
   align: right
   image: profile.png
   address: >
-    <p>Room 5.01</p>
-    <p>Princetonplein 5</p>
-    <p>Utrecht, Netherlands</p>
+    <p>Room TBA</p>
+    <p>382 Xiongchu Avenue/p>
+    <p>Wuhan, China</p>
 
 news: true
 social: true
 ---
 
-I am a Lecturer/Researcher at [Utrecht University](https://www.uu.nl/) in the Natural Language Processing Group. 
+I am an Associate Professor at [Central China Normal University](https://www.ccnu.edu.cn/). With the university, I am affiliated with the School of Computer Science, the Hubei Provincial Key Laboratory of Artificial Intelligence and Smart Learning, and National Language Resources Monitoring and Research Center for Network Media.
 
-I obtained my PhD at [Utrecht University](https://www.uu.nl/) supervised by Prof. [Kees van Deemter](http://homepages.abdn.ac.uk/k.vdeemter/pages/) and Dr. [Chenghua Lin](https://chenghualin.wordpress.com/). I received a Master degree in Artificial Intelligence from the University of Edinburgh (MSc); and a Bachelor degree in e-Commerce Engineering with Law from Beijing University of Posts and Telecommunications (B.B.A) and Queen Mary University of London (B.Eng). I have interned at Samsung AI Lab (2021), Microsoft Research Asia (2019), and Samsung Research Center Beijing (2016-2017).
+Previously, I was a Lecturer/Researcher at [Utrecht University](https://www.uu.nl/) in the Natural Language Processing Group. I obtained my PhD at [Utrecht University](https://www.uu.nl/) supervised by Prof. [Kees van Deemter](http://homepages.abdn.ac.uk/k.vdeemter/pages/) and Dr. [Chenghua Lin](https://chenghualin.wordpress.com/). I received a Master degree in Artificial Intelligence from the University of Edinburgh (MSc); and a Bachelor degree in e-Commerce Engineering with Law from Beijing University of Posts and Telecommunications (B.B.A) and Queen Mary University of London (B.Eng). I have interned at Samsung AI Lab (2021), Microsoft Research Asia (2019), and Samsung Research Center Beijing (2016-2017).
 
 #### Research
 
