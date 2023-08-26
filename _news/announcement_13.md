@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-07-11
+date: 2023-08-26
 inline: true
 ---
 
-One paper accepted to Journal of Pragmatics
+One paper accepted to Information Fusion. 
