@@ -28,4 +28,4 @@ My primary research interest lies within [Natural Language Generation](https://e
 
 - **Program Committee**: ACL, EMNLP, COLING, AACL, CCL, INLG, EACL, NLPCC, NAACL, NeurIPS, ICML, ICLR, AAAI, IJCAI, ECAI, DialDoc, MM-NLG
 - **Area Chair**: INLG (2019), EACL (2022)
-- **Reviewer**: ACL Rolling Review, Neurocomputing, Computer Speech and Language, Natural Language Engineering, Knowledge based Systems, Information Fusion, Cognitive Computation, IEEE/ACM Transactions on Audio, Speech, and Language Processing
+- **Reviewer**: ACL Rolling Review, Neurocomputing, Computer Speech and Language, Natural Language Engineering, Knowledge based Systems, Information Fusion, Cognitive Computation, IEEE/ACM Transactions on Audio, Speech, and Language Processing, Lingua, IEEE Transactions on Big Data
