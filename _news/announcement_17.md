@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-02-20
+date: 2024-05-16
 inline: true
 ---
 
-Two papers accepted to LREC-COLING 2024
+One paper accepted to ACL 2024
