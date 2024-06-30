@@ -8,8 +8,8 @@ profile:
   align: right
   image: profile.png
   address: >
-    <p>Room TBA</p>
-    <p>382 Xiongchu Avenue/p>
+    <p>Room 7078</p>
+    <p>382 Xiongchu Avenue</p>
     <p>Wuhan, China</p>
 
 news: true
@@ -22,10 +22,16 @@ Previously, I was a Lecturer/Researcher at [Utrecht University](https://www.uu.n
 
 #### Research
 
-My primary research interest lies within [Natural Language Generation](https://en.wikipedia.org/wiki/Natural_language_generation), particularly the theoretical aspects, e.g., [Referring Expression Generation](https://aclanthology.org/2020.inlg-1.33/), [Quantified Expression Generation](https://aclanthology.org/W19-8667/) and so on. I am also broadly interested in other language generation related tasks, including [Dialogue Systems](https://aclanthology.org/2020.inlg-1.26/), [Surface Realisation](https://aclanthology.org/W18-6506/), [Data-to-Text Generation](https://aclanthology.org/W19-8622/) and [Style Transfer](https://aclanthology.org/2020.emnlp-main.578/).
+My primary research interest lies within [Natural Language Generation](https://en.wikipedia.org/wiki/Natural_language_generation), particularly including:
+- Theoretical NLG
+- NLG in Mandarin
+- (Affective) Dialogue Systems
+- Large Language Models based NLG
+- Evaluation
+- Multi-modal NLG
 
 #### Academic Services
 
 - **Program Committee**: ACL, EMNLP, COLING, AACL, CCL, INLG, EACL, NLPCC, NAACL, NeurIPS, ICML, ICLR, AAAI, IJCAI, ECAI, DialDoc, MM-NLG
 - **Area Chair**: INLG (2019), EACL (2022)
-- **Reviewer**: ACL Rolling Review, Neurocomputing, Computer Speech and Language, Natural Language Engineering, Knowledge based Systems, Information Fusion, Cognitive Computation, IEEE/ACM Transactions on Audio, Speech, and Language Processing, Lingua, IEEE Transactions on Big Data
+- **Reviewer**: ACL Rolling Review, Neurocomputing, Computer Speech and Language, Natural Language Engineering, Knowledge based Systems, Information Fusion, Cognitive Computation, IEEE/ACM Transactions on Audio, Speech, and Language Processing, Lingua, IEEE Transactions on Big Data, PLOS ONE
