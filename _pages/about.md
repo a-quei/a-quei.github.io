@@ -7,8 +7,9 @@ description: School of Computer Science<br> Central China Normal University
 profile:
   align: right
   image: profile.png
-  address: >
+  address: 
     <p>Room 7078</p>
+    <p>Nanhu Building</p>
     <p>382 Xiongchu Avenue</p>
     <p>Wuhan, China</p>
 
@@ -22,16 +23,22 @@ Previously, I was a Lecturer/Researcher at [Utrecht University](https://www.uu.n
 
 #### Research
 
-My primary research interest lies within [Natural Language Generation](https://en.wikipedia.org/wiki/Natural_language_generation), particularly including:
-- Theoretical NLG
-- NLG in Mandarin
-- (Affective) Dialogue Systems
-- Large Language Models based NLG
-- Evaluation
-- Multi-modal NLG
+Natural Language Processing, particularly:
+- Large Language Models
+- Dialogue Systems
+- Natural Language Generation
+- Affective Computing
+- Computational Cognitive Science
+
+Interdiscipline Research between NLP (esp. LLMs) and Humanities, particularly:
+- (Chinese) Linguistics: Pragmatics, Discourse, and Language Production
+- Psychology: Psycholinguistics and Counselling
+- Pedagogy
+- Human Geography
 
 #### Academic Services
 
-- **Program Committee**: ACL, EMNLP, COLING, AACL, CCL, INLG, EACL, NLPCC, NAACL, NeurIPS, ICML, ICLR, AAAI, IJCAI, ECAI, DialDoc, MM-NLG
-- **Area Chair**: INLG (2019), EACL (2022)
-- **Reviewer**: ACL Rolling Review, Neurocomputing, Computer Speech and Language, Natural Language Engineering, Knowledge based Systems, Information Fusion, Cognitive Computation, IEEE/ACM Transactions on Audio, Speech, and Language Processing, Lingua, IEEE Transactions on Big Data, PLOS ONE
+- **Senior Area Chair**: EMNLP 2025
+- **Area Chair**: INLG 2019, EACL 2022
+- **Program Committee**: ACL, EMNLP, COLING, AACL, CCL, INLG, EACL, NLPCC, NAACL, NeurIPS, ICML, ICLR, AAAI, IJCAI, ECAI, DialDoc, MM-NLG, WiNLP
+- **Reviewer**: ACL Rolling Review, Neurocomputing, Computer Speech and Language, Natural Language Engineering, Knowledge based Systems, Information Fusion, Cognitive Computation, IEEE/ACM Transactions on Audio, Speech, and Language Processing, Lingua, IEEE Transactions on Big Data, PLOS ONE, IEEE Intelligent Systems, Robotica, International Journal of Data Science and Analytics, European Journal of Psychotraumatology, Transactions on Asian and Low-Resource Language Information Processing, Transactions on Dependable and Secure Computing
