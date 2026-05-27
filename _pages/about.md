@@ -38,6 +38,7 @@ Interdiscipline Research between NLP (esp. LLMs) and Humanities, particularly:
 
 #### Academic Services
 
+- **Program Chair**: INLG 2026
 - **Senior Area Chair**: EMNLP 2025
 - **Area Chair**: INLG 2019, EACL 2022, INLG 2025
 - **Program Committee**: ACL, EMNLP, COLING, AACL, CCL, INLG, EACL, NLPCC, NAACL, NeurIPS, ICML, ICLR, AAAI, IJCAI, ECAI, DialDoc, MM-NLG, WiNLP
